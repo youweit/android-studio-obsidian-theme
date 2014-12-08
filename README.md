@@ -18,4 +18,4 @@ Installation
 color themes.
 
 
-<img src="">
+<img src="https://github.com/Tengag/android-studio-Obsidian-theme/blob/master/Obsidian-screen.png">
