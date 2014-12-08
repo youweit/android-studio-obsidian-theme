@@ -4,7 +4,7 @@ android-studio-Obsidian-theme
 Installation
 ---------
 
-1.  Copy `Obsidian2.icls` to your IntelliJ IDEA preferences color directory. 
+1.  Copy `Obsidian.icls` to your IntelliJ IDEA preferences color directory. 
 
     *Mac OS X*
     * `~/Library/Preferences/AndroidStudio/colors`
