@@ -16,3 +16,6 @@ Installation
 
 3. Go to `Preferences | Editor | Colors & Fonts` and select Obsidian
 color themes.
+
+
+<img src="">
