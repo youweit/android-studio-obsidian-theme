@@ -8,7 +8,8 @@ Installation
 
     *Mac OS X*
     * `~/Library/Preferences/AndroidStudio/colors`
-
+    * `~/Library/Preferences/IntelliJIdea14/colors` (IntelliJ IDEA 14 Ultimate Edition)
+    * `~/Library/Preferences/IdeaIC14/colors` (IntelliJ IDEA 14 Community Edition)
     *Windows*
     * `Documents and Settings/<user>/.IdeaIC12/config/colors` (IntelliJ IDEA 12 Community Edition)
         
