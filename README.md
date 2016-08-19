@@ -1,4 +1,4 @@
-android-studio-Obsidian-theme
+Android Studio Obsidian Theme
 =============================
 
 Installation
